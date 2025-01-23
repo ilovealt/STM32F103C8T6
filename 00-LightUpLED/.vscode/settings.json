@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 20,
+    "files.readonlyFromPermissions": true,
+    "files.readonlyInclude": {
+        "**/Drivers/CMSIS/**/*.*": true,
+        "**/Drivers/STM32F1xx_HAL_Driver/**/*.*": true,
+    },
+    "files.readonlyExclude": {},
+    "files.associations": {}
+}
